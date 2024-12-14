@@ -10,6 +10,14 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Natlada | Portfolio",
+  icons: {
+    icon: [
+      {
+        url: "/icon.jpg",
+        type: "image/jpeg",
+      },
+    ],
+  },
 };
 
 export default function RootLayout({

@@ -19,14 +19,15 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        A full-stack developer with a unique foundation in UI/UX design, I
-        create web applications that seamlessly blend attractive interfaces with
-        robust functionality. While my design background gives me an edge in
-        frontend development, I'm passionate about expanding my backend skills
-        to build high-performance solutions. I'm recognized for my ability to
-        learn quickly, manage time effectively, and lead teams towards
-        successful project completion. I thrive in collaborative environments
-        where I can both contribute and grow alongside talented peers.
+        As a third-year student with a keen interest in Full-stack development
+        and foundational knowledge in UI/UX design gained through classroom
+        projects and self-study, I create web applications that combine
+        user-friendly interfaces with functionality. While my coursework has
+        given me experience in frontend development, I am actively expanding my
+        backend skills to build efficient applications. Known for being a quick
+        learner, managing time effectively, and collaborating well with others,
+        I am seeking an internship opportunity to develop my Full-stack
+        development skills in a real-world environment.
       </p>
     </motion.section>
   );

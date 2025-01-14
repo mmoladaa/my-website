@@ -33,8 +33,7 @@ export default function Contact() {
         Please contact me directly at{" "}
         <a className="underline" href="mailto:natlada.sms@gmail.com">
           natlada.sms@gmail.com
-        </a>{" "}
-        or through this form.
+        </a>
       </p>
     </motion.section>
   );
